@@ -1,0 +1,4 @@
+Specification for the HelloWorld API:
+
+- The API should have a GET endpoint at '/hello'
+- When the endpoint is accessed, it should return the message 'Hello, World!'
